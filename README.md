@@ -24,9 +24,9 @@
 <img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E7%B3%BB%E7%BB%9F2.png?raw=true"><br/>
 #### 酒瓶筛选(主要组件，包含弹出框组件)
 <img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E7%B3%BB%E7%BB%9F3.png?raw=true"><br/>
-#### 酒瓶筛选(主要组件，包含弹出框组件)
+#### 弹出层 点击列表小图进入
 <img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E7%B3%BB%E7%BB%9F4.png?raw=true"><br/>
-#### 弹出层，点击小图进入
+#### 弹出层功能展示 显示酒品信息以及设计评价、启发的提交
 <img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E7%B3%BB%E7%BB%9F5.png?raw=true"><br/>
 #### 换页功能的实现
 <img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E7%B3%BB%E7%BB%9F6.png?raw=true"><br/>
