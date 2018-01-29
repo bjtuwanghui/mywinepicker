@@ -11,7 +11,7 @@
 <img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E7%99%BB%E9%99%861.png?raw=true"><br/>
 #### 发出警告 提示注册或重新输入
 <img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E7%99%BB%E9%99%862.png?raw=true"><br/>
-#### 未注册登陆状态
+#### 输入账号密码 进行注册
 <img src="https://github.com/bjtuwanghui/mywinepicker/raw/master/images_introduction/%E6%B3%A8%E5%86%8C1.png?raw=true"><br/>
 #### 未注册登陆状态
 <img src="https://github.com/bjtuwanghui/mywinepicker/raw/master/images_introduction/%E6%B3%A8%E5%86%8C2.png?raw=true"><br/>
