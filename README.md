@@ -32,5 +32,6 @@
 <img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E7%B3%BB%E7%BB%9F6.png?raw=true"><br/>
 #### 系列酒品展示，对现有设计的分类归纳
 <img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E7%B3%BB%E7%BB%9F7.png?raw=true"><br/>
+***
 #### 个人信息设置
 <img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E7%B3%BB%E7%BB%9F8.png?raw=true"><br/>
