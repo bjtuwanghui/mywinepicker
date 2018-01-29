@@ -1,0 +1,29 @@
+<div class="commonpage">
+	<div class="redbox">
+		<div class="word1">
+			WINEPICKER
+		</div>
+		<div class="word2">
+			酒类归纳辅助设计系统
+		</div>
+
+	</div>
+
+	<div class="twobuttons">
+		<span class="regist"><a href="/regist">注册</a></span>
+		<span class="login"><a href="/login">登陆</a></span>
+
+
+		<!--下面这个是登陆是否成功的暗记！！-->
+		<span id="login_hint" style="display:none">
+			<%= login ? 1 : -1 %>
+		</span>
+		<span id="email_hint" style="display:none">
+			<%= login ? email : -1 %>
+		</span>
+
+	</div>
+
+
+
+</div>

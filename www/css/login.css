@@ -1,0 +1,102 @@
+*{
+	margin:0;
+	padding:0;
+}
+html,body{
+	background:#eee;
+	width:100%;
+}
+.commonpage{
+	width:100%;
+	height:46px;
+	background:#AD1B43;
+	position:relative;
+}
+.word1{
+
+	float:left;
+	color:#eee;
+	font-size:26px;
+    line-height:46px;
+	font-weight:bold;
+	margin-right:10px;
+	margin-left:5px;"
+
+}
+.word2{
+
+
+	float:left;
+	color:#eee;
+	font-size:20px;
+    line-height:46px;
+    font-weight:500;
+}
+
+.twobuttons span{
+    margin-top:9px;
+	float:right;
+	font-size:20px;	
+}
+.firstpage{
+	margin-right: 1340px;
+}
+.regist{
+     margin-right:20px;
+}
+.login{
+	margin-right:10px;
+}
+
+.regist a{
+	color:#eee;
+	text-decoration:none;
+}
+
+.login a{
+	color:#eee;
+	text-decoration:none;
+}
+
+
+.twobuttons span:hover{
+    margin-top:9px;
+	float:right;
+	background:#AD1B43;
+	border-radius:1px;
+	color:white;
+	font-weight:bold;
+	cursor:pointer;
+}
+
+ .main .top{
+ 	margin-top:20px;
+ 	font-size:30px;
+ 	color:black;
+ 	border-bottom:1px solid #aaa;
+ }
+ .main .top h1{
+ 	margin-left:100px;
+
+ }
+
+
+.col-md-6{
+
+	margin-top:100px;
+	margin-left:400px;
+
+}
+
+.mylogo{
+	position:absolute;
+	width:150px;
+	height:150px;
+	top:210px;
+	left:400px;
+}
+
+#loginorregisterbtn{
+
+	background:#AD1B43;
+}
