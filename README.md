@@ -41,3 +41,5 @@
 ***
 #### 个人信息设置
 <img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E7%B3%BB%E7%BB%9F8.png?raw=true"><br/>
+
+# Thank you! 
