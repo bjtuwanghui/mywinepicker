@@ -15,6 +15,7 @@
 <img src="https://github.com/bjtuwanghui/mywinepicker/raw/master/images_introduction/%E6%B3%A8%E5%86%8C1.png?raw=true"><br/>
 #### 进行登陆
 <img src="https://github.com/bjtuwanghui/mywinepicker/raw/master/images_introduction/%E6%B3%A8%E5%86%8C2.png?raw=true"><br/>
-
+<br/>
+<br/>
 ### 进入系统界面>><br/> 
 
