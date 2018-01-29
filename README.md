@@ -14,3 +14,5 @@
 <img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E7%99%BB%E9%99%861.png?raw=true">
 
 <img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E7%99%BB%E9%99%862.png?raw=true">
+
+<img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E7%99%BB%E9%99%863.png?raw=true">
