@@ -8,7 +8,6 @@
      技术栈：  &nbsp;React+Redux+Ramda+Dva+React-Router-Redux+ejs+mongodb+express+nodejs
 
 <img src="https://github.com/bjtuwanghui/mywinepicker/raw/master/images_introduction/%E6%B3%A8%E5%86%8C1.png?raw=true">
-<img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E6%B3%A8%E5%86%8C2.png?raw=true">
 <img src="https://github.com/bjtuwanghui/mywinepicker/raw/master/images_introduction/logo.png?raw=true" width="20%" height="20%">
 <img src="https://github.com/bjtuwanghui/mywinepicker/raw/master/images_introduction/logo.png?raw=true" width="20%" height="20%">
 <img src="https://github.com/bjtuwanghui/mywinepicker/raw/master/images_introduction/logo.png?raw=true" width="20%" height="20%">
