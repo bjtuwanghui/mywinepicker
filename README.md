@@ -8,7 +8,7 @@
      技术栈：  &nbsp;React+Redux+Ramda+Dva+React-Router-Redux+ejs+mongodb+express+nodejs<br/>
 ### 登陆、注册细节>><br/>  
 #### 未注册登陆状态
-<img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E7%99%BB%E9%99%861.png?raw=true">
+<img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E7%99%BB%E9%99%861.png?raw=true"><br/>
 #### 发出警告 提示注册或重新输入
 <img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E7%99%BB%E9%99%862.png?raw=true">
 #### 未注册登陆状态
