@@ -22,7 +22,7 @@
 <img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E7%B3%BB%E7%BB%9F1.png?raw=true"><br/>
 #### 酒瓶筛选(主要组件，包含弹出框组件)
 <img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E7%B3%BB%E7%BB%9F2.png?raw=true"><br/>
-#### 酒瓶筛选(主要组件，包含弹出框组件)
+#### 筛选功能展示
 <img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E7%B3%BB%E7%BB%9F3.png?raw=true"><br/>
 #### 弹出层 点击列表小图进入
 <img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E7%B3%BB%E7%BB%9F4.png?raw=true"><br/>
