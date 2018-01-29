@@ -19,3 +19,11 @@
 <br/>
 ### 进入系统界面>><br/> 
 
+<img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E7%B3%BB%E7%BB%9F1.png?raw=true"><br/>
+<img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E7%B3%BB%E7%BB%9F2.png?raw=true"><br/>
+<img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E7%B3%BB%E7%BB%9F3.png?raw=true"><br/>
+<img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E7%B3%BB%E7%BB%9F4.png?raw=true"><br/>
+<img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E7%B3%BB%E7%BB%9F5.png?raw=true"><br/>
+<img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E7%B3%BB%E7%BB%9F6.png?raw=true"><br/>
+<img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E7%B3%BB%E7%BB%9F7.png?raw=true"><br/>
+<img src="https://github.com/bjtuwanghui/mywinepicker/blob/master/images_introduction/%E7%B3%BB%E7%BB%9F8.png?raw=true"><br/>
