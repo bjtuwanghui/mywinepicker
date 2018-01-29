@@ -1,1 +1,1 @@
-# hello this is my personal project
+#   Hello  here is my personal project called "WINEPICKER"! Welcome!
